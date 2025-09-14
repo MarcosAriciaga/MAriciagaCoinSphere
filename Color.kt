@@ -2,13 +2,11 @@ package com.example.coinsphere.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-// Aquí se definen los colores de la paleta CoinSphere
 val DarkBackground = Color(0xFF0B1020)
 val DarkSurface = Color(0xFF151B2E)
 val TextMain = Color(0xFFE8EFC8)
 val TextDim = Color(0xFF9AA3B2)
 
-// Si deseas mantener los colores predeterminados para el tema claro (opcional)
 val Purple80 = Color(0xFFD0BCFF)
 val PurpleGrey80 = Color(0xFFCCC2DC)
 val Pink80 = Color(0xFFEFB8C8)
